@@ -1,0 +1,18 @@
+   {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+        {
+        "name":"google-plus",
+        "url":"http://googleplus.com/fullstackshani",
+        "className":"fa fa-google-plus"
+      },
+        {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+
+      "street":"(Your Street)",
+      "zip": "(Your Zip/Postal Code)"
