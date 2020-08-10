@@ -36,7 +36,7 @@ header {
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
-   text-align: center;
+   text-align: right;
    overflow: hidden;
 }
 
@@ -66,14 +66,14 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #574B73;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #FAD291;
 }
 header .banner-text hr {
    width: 60%;
@@ -94,8 +94,8 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a { color: #FAD291 }
+header .social li a:hover { color: #574B73; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -103,13 +103,13 @@ header .scrolldown a {
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
-   color: #fff;
+   color: #FAD291;
    display: block;
    height: 42px;
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
+   color: #FAD291;
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #B0ABC2; }
+header .scrolldown a:hover { color: #574B73; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -169,7 +169,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #FAD291;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #71637B; }
+ul#nav li.current a { color: #574B73; }
 
 
 /* ------------------------------------------------------------------ */
@@ -198,18 +198,18 @@ ul#nav li.current a { color: #71637B; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #B0ABC2;
+   color: #FAD291;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #574B73;
 }
 #about .profile-pic {
    position: relative;
-   width: 300px;
-   /* height: 120px; */
-   border-radius: 100%;
+   width: 500px;
+   
+   border-radius: 25%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
