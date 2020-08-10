@@ -106,19 +106,19 @@
       {
         "title":"NASA APOD API Site",
         "category":"My use of NASA's APOD API to display the current date's Astrology Photo of the Day as well as the dates chosen by the user.",
-        "image":"canadian-wanderlust.jpg",
+        "image":"nasa.png",
         "url":"https://jovial-carson-2a1fa0.netlify.app/"
       },
       {
         "title":"Mancala",
         "category":"My interpretation of the board game mancala. The functionality is still being worked on.",
-        "image":"fury-fighting-gear.jpg",
+        "image":"mancala.png",
         "url":"https://fervent-euler-438795.netlify.app/"
       },
       {
         "title":"Shuffle Radio App",
         "category":"A functional radio site with audio and track covers",
-        "image":"original-thai-food.jpg",
+        "image":"radio.png",
         "url":"https://ecstatic-lamarr-539ac5.netlify.app/"
       }
     ]
