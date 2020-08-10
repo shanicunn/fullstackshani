@@ -15,7 +15,7 @@
 
     },
     "website": "http://www.fullstackshani.com",
-    "resumedownload":"http://fullstackshani.com",
+    "resumedownload":"public/assets/ShaniCunnSDev.docx",
     "social":[
       {
         "name":"twitter",
@@ -118,7 +118,7 @@
       {
         "title":"Shuffle Radio App",
         "category":"A functional radio site with audio and track covers",
-        "image":"build/images/portfolio/radio.png",
+        "image":"radio.png",
         "url":"https://ecstatic-lamarr-539ac5.netlify.app/"
       }
     ]
